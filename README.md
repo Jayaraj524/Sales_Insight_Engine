@@ -75,7 +75,9 @@ The retail company wants to understand:
 
 ## **Project Files**
 - **SQL Queries**: [SQL Queries File]
-- **Power BI Report**: [Power BI `.pbix` file]
+- Power BI Report: [Download Sales_Insights_Report.pbix](./Sales_Insights_Report.pbix)
+  Open this file using Power BI Desktop
+
 - **Dataset**: [Link to raw data]
 
 ---
